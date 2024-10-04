@@ -205,7 +205,7 @@ button:hover{
 }
 
 #list-container li.checked::before{
-    /* background-color: #c1e8ff; */
+    background-color: #87c689;
     background-image: url(/images/checked.png);
 }
 

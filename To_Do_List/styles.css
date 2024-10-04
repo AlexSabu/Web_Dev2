@@ -167,19 +167,17 @@ button{
     /* background: #021024;
     color: #c1e8ff; */
     background: #09302b;
-    color: #f7f4d1;
+    color: #fff;
     font-size: 1.5rem;
     cursor: pointer;
     border-radius: 40px;
 }
 
-#input-button:hover{
+button:hover{
     /* background-color: #052659; */
     background-color: #f7f4d1;
     /* color: #fff; */
     color: #09302b;
-    border: 2px solid;
-    transition: all 0.3s ease;
 }
 
 #list-container li{
